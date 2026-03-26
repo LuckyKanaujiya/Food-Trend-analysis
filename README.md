@@ -1,4 +1,4 @@
-# Food-Trend-analysis
+# Food-Trends-Analysis
 **#Food Trends & Customer Analysis Dashboard In FB Industries**
 
 ##  Project Description
