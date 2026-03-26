@@ -13,11 +13,11 @@ The primary objective of this project is to enable data-driven decision-making b
 - Excel / CSV
 
 ##  Dashboards
-- Food Trends Dashboard
+- Food Trends  & Customer Preferences Dashboard
 - Sentiment Analysis Dashboard
 - Customer Segmentation
-- Product Insight
-- Strategy Dashboard
+- Product Insight Module 
+- Strategy & Innovation Dashboard
 
   ## 📈 Key Insights
 - Beverages generate the highest revenue due to frequent demand
