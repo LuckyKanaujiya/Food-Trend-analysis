@@ -1,5 +1,5 @@
 
-**#Food Trends & Customer Analysis Dashboard In FB Industries**
+**#Food Trends & Customer Analysis Prefrences In FB Industries**
 
 ##  Project Description
 This project focuses on analyzing food trends and customer preferences in the Food & Beverage industry using interactive Power BI dashboards.
