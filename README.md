@@ -1,4 +1,4 @@
-# Food-Trends-Analysis
+**“Power BI Dashboard for Food Trends & Customer Preference Analysis”**
 **#Food Trends & Customer Analysis Dashboard In FB Industries**
 
 ##  Project Description
