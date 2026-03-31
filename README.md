@@ -33,5 +33,5 @@ The analysis helped identify high-performing food categories, understand custome
 
 Overall, the project demonstrates how data-driven insights can support better decision-making, improve customer satisfaction, and enhance business performance in the Food & Beverage industry.
 
-## 👨‍💻 Author
+## 👨‍💻 Author 
 Lucky Kanaujiya
